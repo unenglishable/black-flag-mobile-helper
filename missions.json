@@ -1,0 +1,539 @@
+[
+  {
+    "name": "Gulf of Mexico",
+    "tags": [
+      "schooner"
+    ],
+    "missions": [
+      {
+        "name": "The General Store",
+        "value": 200,
+        "time": 18,
+        "cost": 10
+      },
+      {
+        "name": "Diplomacy I",
+        "value": 150,
+        "time": 9,
+        "cost": 15
+      },
+      {
+        "name": "A Good Deed",
+        "value": 100,
+        "time": 9,
+        "cost": 5
+      },
+      {
+        "name": "Diplomacy II",
+        "value": 400,
+        "time": 30,
+        "cost": 20
+      },
+      {
+        "name": "Fortune's Favor",
+        "value": 300,
+        "time": 30,
+        "cost": 15
+      }
+    ]
+  },
+  {
+    "name": "Southern British Colonies",
+    "tags": [
+      "schooner"
+    ],
+    "missions": [
+      {
+        "name": "First Business",
+        "value": 50,
+        "time": 3,
+        "cost": 5
+      },
+      {
+        "name": "The Sail Mates",
+        "value": 75,
+        "time": 3,
+        "cost": 5
+      },
+      {
+        "name": "American Dreams",
+        "value": 100,
+        "time": 5,
+        "cost": 8
+      },
+      {
+        "name": "New Horizon",
+        "value": 100,
+        "time": 5,
+        "cost": 5
+      }
+    ]
+  },
+  {
+    "name": "Eastern British Colonies",
+    "tags": [
+      "schooner",
+      "brig"
+    ],
+    "missions": [
+      {
+        "name": "Taste of Money",
+        "value": 800,
+        "time": 300,
+        "cost": 15
+      },
+      {
+        "name": "The Empty Cellar",
+        "value": 900,
+        "time": 300,
+        "cost": 25
+      },
+      {
+        "name": "Secret Medicine",
+        "value": 600,
+        "time": 200,
+        "cost": 5
+      },
+      {
+        "name": "New Partners",
+        "value": 700,
+        "time": 240,
+        "cost": 20
+      },
+      {
+        "name": "Save the Children",
+        "value": 600,
+        "time": 180,
+        "cost": 15
+      },
+      {
+        "name": "Emerging Opportunities",
+        "value": 800,
+        "time": 180,
+        "cost": 25
+      }
+    ]
+  },
+  {
+    "name": "Eastern Canada",
+    "tags": [
+      "frigate",
+      "brig"
+    ],
+    "missions": [
+      {
+        "name": "Promises To Keep",
+        "value": 1700,
+        "time": 480,
+        "cost": 55
+      },
+      {
+        "name": "The Lost Expedition I",
+        "value": 1600,
+        "time": 480,
+        "cost": 45
+      },
+      {
+        "name": "Scarlatina",
+        "value": 1400,
+        "time": 480,
+        "cost": 20
+      },
+      {
+        "name": "The Lost Expedition II",
+        "value": 1300,
+        "time": 360,
+        "cost": 45
+      },
+      {
+        "name": "Old Partners",
+        "value": 1700,
+        "time": 360,
+        "cost": 45
+      },
+      {
+        "name": "Break of Dawn II",
+        "value": 2200,
+        "time": 600,
+        "cost": 45
+      },
+      {
+        "name": "The Lost Expedition III",
+        "value": 1700,
+        "time": 600,
+        "cost": 40
+      }
+    ]
+  },
+  {
+    "name": "North West Europe",
+    "tags": [
+      "frigate",
+      "man o war"
+    ],
+    "missions": [
+      {
+        "name": "Homeward Bound",
+        "value": 2400,
+        "time": 720,
+        "cost": 75
+      },
+      {
+        "name": "A Worthy Trip",
+        "value": 2200,
+        "time": 720,
+        "cost": 60
+      },
+      {
+        "name": "Welcoming the Irish",
+        "value": 1800,
+        "time": 720,
+        "cost": 50
+      },
+      {
+        "name": "A New Cathedral",
+        "value": 3800,
+        "time": 1440,
+        "cost": 75
+      },
+      {
+        "name": "The Poet",
+        "value": 3500,
+        "time": 720,
+        "cost": 60
+      },
+      {
+        "name": "The Great Plague",
+        "value": 3500,
+        "time": 1440,
+        "cost": 60
+      },
+      {
+        "name": "A Piece of the Action",
+        "value": 3100,
+        "time": 1080,
+        "cost": 75
+      },
+      {
+        "name": "A Long Voyage",
+        "value": 3200,
+        "time": 1080,
+        "cost": 50
+      }
+    ]
+  },
+  {
+    "name": "Bay of Biscay",
+    "tags": [
+      "schooner",
+      "frigate",
+      "man o war"
+    ],
+    "missions": [
+      {
+        "name": "Alliance I",
+        "value": 2700,
+        "time": 1080,
+        "cost": 50
+      },
+      {
+        "name": "Hungry Corsairs",
+        "value": 3000,
+        "time": 1080,
+        "cost": 70
+      },
+      {
+        "name": "The Corsairs' Request",
+        "value": 3000,
+        "time": 1080,
+        "cost": 40
+      },
+      {
+        "name": "Alliance II",
+        "value": 2000,
+        "time": 600,
+        "cost": 60
+      },
+      {
+        "name": "Sweet Broth",
+        "value": 1500,
+        "time": 600,
+        "cost": 10
+      },
+      {
+        "name": "A Sweet Journey",
+        "value": 1600,
+        "time": 600,
+        "cost": 20
+      },
+      {
+        "name": "Successful Atlantic",
+        "value": 2400,
+        "time": 720,
+        "cost": 45
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "tags": [
+      "schooner",
+      "brig",
+      "frigate"
+    ],
+    "missions": [
+      {
+        "name": "New Trading Posts",
+        "value": 2500,
+        "time": 900,
+        "cost": 40
+      },
+      {
+        "name": "The Old Man's Order",
+        "value": 2200,
+        "time": 900,
+        "cost": 35
+      },
+      {
+        "name": "Cursed Night",
+        "value": 1900,
+        "time": 720,
+        "cost": 40
+      },
+      {
+        "name": "Do No Harm",
+        "value": 1700,
+        "time": 720,
+        "cost": 15
+      }
+    ]
+  },
+  {
+    "name": "Mediterranean Sea",
+    "tags": [
+      "brig",
+      "frigate",
+      "man o war"
+    ],
+    "missions": [
+      {
+        "name": "Great Reputation I",
+        "value": 3200,
+        "time": 1080,
+        "cost": 80
+      },
+      {
+        "name": "Being Mad",
+        "value": 3200,
+        "time": 1080,
+        "cost": 80
+      },
+      {
+        "name": "Great Reputation II",
+        "value": 3700,
+        "time": 0,
+        "cost": 70
+      },
+      {
+        "name": "The Catalans",
+        "value": 3800,
+        "time": 0,
+        "cost": 30
+      },
+      {
+        "name": "The Smokers",
+        "value": 3700,
+        "time": 0,
+        "cost": 70
+      },
+      {
+        "name": "Great Reputation III",
+        "value": 5200,
+        "time": 0,
+        "cost": 80
+      },
+      {
+        "name": "A New Medicine",
+        "value": 5200,
+        "time": 0,
+        "cost": 50
+      }
+    ]
+  },
+  {
+    "name": "North Africa",
+    "tags": [
+      "schooner",
+      "brig",
+      "frigate"
+    ],
+    "missions": [
+      {
+        "name": "A Popular Stop",
+        "value": 1100,
+        "time": 360,
+        "cost": 10
+      },
+      {
+        "name": "Feeding The Fathers",
+        "value": 1200,
+        "time": 360,
+        "cost": 35
+      },
+      {
+        "name": "The Sweet Tooth",
+        "value": 1000,
+        "time": 360,
+        "cost": 15
+      },
+      {
+        "name": "The Cook's Order",
+        "value": 1800,
+        "time": 600,
+        "cost": 45
+      },
+      {
+        "name": "The Famous Stew",
+        "value": 1800,
+        "time": 600,
+        "cost": 35
+      },
+      {
+        "name": "The Musicians",
+        "value": 1500,
+        "time": 480,
+        "cost": 40
+      },
+      {
+        "name": "Before the Storm",
+        "value": 1300,
+        "time": 480,
+        "cost": 30
+      }
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "tags": [
+      "brig",
+      "frigate"
+    ],
+    "missions": [
+      {
+        "name": "An Old Frenchman",
+        "value": 1600,
+        "time": 600,
+        "cost": 30
+      },
+      {
+        "name": "Meet the Tributes",
+        "value": 2300,
+        "time": 720,
+        "cost": 40
+      },
+      {
+        "name": "Giant Appetites",
+        "value": 3400,
+        "time": 1440,
+        "cost": 50
+      },
+      {
+        "name": "Meet the Tributes II",
+        "value": 3400,
+        "time": 1440,
+        "cost": 50
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "tags": [
+      "brig",
+      "frigate",
+      "man o war"
+    ],
+    "missions": [
+      {
+        "name": "A Promise of Profit",
+        "value": 1800,
+        "time": 600,
+        "cost": 45
+      },
+      {
+        "name": "The Eager Hunters",
+        "value": 2200,
+        "time": 600,
+        "cost": 70
+      },
+      {
+        "name": "Door to Europe",
+        "value": 2400,
+        "time": 1080,
+        "cost": 30
+      },
+      {
+        "name": "Table Bay's Luck",
+        "value": 5000,
+        "time": 0,
+        "cost": 40
+      },
+      {
+        "name": "New Economic Hub",
+        "value": 5200,
+        "time": 2160,
+        "cost": 30
+      }
+    ]
+  },
+  {
+    "name": "South Atlantic",
+    "tags": [
+      "schooner",
+      "brig"
+    ],
+    "missions": [
+      {
+        "name": "A Feast of Riches",
+        "value": 1100,
+        "time": 480,
+        "cost": 15
+      },
+      {
+        "name": "Outlaws III",
+        "value": 1200,
+        "time": 480,
+        "cost": 20
+      },
+      {
+        "name": "Diplomacy III",
+        "value": 1300,
+        "time": 600,
+        "cost": 10
+      },
+      {
+        "name": "Bretheren of the Coast I",
+        "value": 1400,
+        "time": 600,
+        "cost": 20
+      },
+      {
+        "name": "To the South",
+        "value": 800,
+        "time": 300,
+        "cost": 15
+      },
+      {
+        "name": "Good Works",
+        "value": 900,
+        "time": 300,
+        "cost": 25
+      },
+      {
+        "name": "The Big Smoke",
+        "value": 1000,
+        "time": 300,
+        "cost": 30
+      }
+    ]
+  }
+]
