@@ -19,5 +19,17 @@ All.prototype.byValue = function(m) {
   });
 };
 
+All.prototype.inValueRange = function(options) {
+  var maxValue = options.max || 6000;
+  var minValue = options.min || 0;
+  var locations = options.m || this.locations;
+  return Promise.map(locations, function(location) {
+    // sort location's missions by value
+    location.missions = _.filter(location.missions, function(mission) {
+      return _.inRange(mission.value, minValue, maxValue);
+    });
+    return location;
+  });
+};
 
 module.exports = All;
