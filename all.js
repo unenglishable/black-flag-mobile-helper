@@ -5,9 +5,9 @@ function All(m) {
   this.locations = m;
 };
 
-All.prototype.byValue = function() {
-  var self = this;
-  return Promise.map(self.locations, function(location) {
+All.prototype.byValue = function(m) {
+  var locations = m || this.locations;
+  return Promise.map(locations, function(location) {
     // sort location's missions by value
     location.missions = _.sortBy(location.missions, ['value']).reverse();
     return location;
