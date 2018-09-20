@@ -14,7 +14,12 @@ All.prototype.byValue = function(m) {
   })
   .then(function(mappedLocations) {
     return _.sortBy(mappedLocations, function(location) {
-      return location.missions[0].value;
+      if (location.missions.length) {
+        return location.missions[0].value;
+      }
+      else {
+        return 0;
+      }
     }).reverse();
   });
 };
