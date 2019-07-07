@@ -337,25 +337,25 @@
       {
         "name": "The Catalans",
         "value": 3800,
-        "time": 0,
+        "time": 1440,
         "cost": 30
       },
       {
         "name": "The Smokers",
         "value": 3700,
-        "time": 0,
+        "time": 1440,
         "cost": 70
       },
       {
         "name": "Great Reputation III",
         "value": 5200,
-        "time": 0,
+        "time": 2160,
         "cost": 80
       },
       {
         "name": "A New Medicine",
         "value": 5200,
-        "time": 0,
+        "time": 2160,
         "cost": 50
       }
     ]
@@ -474,7 +474,7 @@
       {
         "name": "Table Bay's Luck",
         "value": 5000,
-        "time": 0,
+        "time": 2160,
         "cost": 40
       },
       {
